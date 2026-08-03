@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -25,6 +26,7 @@
 | [0125-valid-palindrome](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
