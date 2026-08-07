@@ -9,12 +9,14 @@
 | [0027-remove-element](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0009-palindrome-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
