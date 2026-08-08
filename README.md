@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0283-move-zeroes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1672-richest-customer-wealth) |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
