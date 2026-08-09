@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1672-richest-customer-wealth) |
@@ -70,4 +71,9 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
