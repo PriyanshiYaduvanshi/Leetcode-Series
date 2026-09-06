@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -36,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0344-reverse-string) |
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -103,4 +106,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
