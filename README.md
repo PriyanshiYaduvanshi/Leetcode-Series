@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0414-third-maximum-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/3731-find-missing-elements) |
 ## Hash Table
