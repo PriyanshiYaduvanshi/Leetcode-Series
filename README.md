@@ -15,6 +15,7 @@
 | [0414-third-maximum-number](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0414-third-maximum-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -65,6 +66,7 @@
 | [0075-sort-colors](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -128,4 +130,28 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PriyanshiYaduvanshi/Leetcode-DSA-Series/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
